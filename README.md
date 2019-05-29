@@ -33,14 +33,15 @@ Today, machine learning plays an integral role in many phases of the financial e
    As a consequence of the growing swarm of data , fraud has become a major problem leading to great amount of financial loss. Machines are the most profound solution to this problem, for it is impossible for human to analyze hundred of millions of data. Machine learning algorithms aim to find anomalies in the data representing fraudulant activities. Fraud detection problem may be adressed with **supervised** and **unsupervised** learning. In the supervised example, the outputs are seperated in to two categories of fraud and non-fraud, and the aim is to predict wether a bank account's activity are indicative of fraudulant activity or not. Unsupervised learning are the most feasible algorithm to adress the fraud detection problem. This is due to the exponential amount of data, as each bank includes hundreds of thousands of credit cards and accounts, and labeling every instance of data may be costly.  
  
   * ## Credit Scoring  
-  credit score is a numerical value attributed to an individual based on some corresponding features. Credit scores are implemented by lenders, such as banks and credit card companies, to evaluate the risks of lending money and deter losses resulted from bad lending systems. Credit scoring models based on statistical models are widely used, yet they underperform  on big data cases. Therefore, machine learning algorithm are an appropriate alternative that performs well even if the data are complex or large. Machine algorithms ,such as regression, and deep learning algorithm are good choices to evaluate credit scores. 
+    
+    credit score is a numerical value attributed to an individual based on some corresponding features. Credit scores are implemented by lenders, such as banks and credit card companies, to evaluate the risks of lending money. The main goal here is to prevent losses caused from people unable to pay back the borrowed money. Credit scoring models based on statistical analysis are widely used, yet they underperform  on big data cases. Therefore, machine learning algorithm are an appropriate alternative that performs well even if the data are complex or large.
   
- ## * sth
- ## * sth
- ## * sth
-
-
-# Codes 
-
-Python'''codes'''
-
+  * ## Robo-advisor and portfolio management  
+    This is an interesting application of ML which involves using algorithms to help individuals plan investements and analyze risks based on their portfolio. By applying these algorithms, people fill in their goals, age, income, and currents financial assets, and the robo-advisor will suggest best area to invest. Automated software agents can use historical results to estimate the best way to allocate your investments. 
+  * ## Costumer Service 
+     
+     By now, most people are aware of Amazon's Alexa and Apple's Siri,but digital assistance are also used in finance. Automated phone systems that rely on machine learning can help route callers to the right department within a company, providing good-quality customer service without the need for human employees.
+     
+  * ## Stock Price Prediction
+  
+     It has always been of interest to find a way to predict future stock value given past observations. Although stock prices are unstable and full of fluctuations, machine learning algorithms can successfully detect complex relationship in past stock prices, and use them to forecast future stock prices.  
